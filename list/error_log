@@ -1,0 +1,15 @@
+[18-Jan-2016 01:43:56 UTC] PHP Notice:  Undefined property: stdClass::$videoId in /home/zxq123/public_html/list/youtube_video.php on line 158
+[18-Jan-2016 01:43:56 UTC] PHP Stack trace:
+[18-Jan-2016 01:43:56 UTC] PHP   1. {main}() /home/zxq123/public_html/list/youtube_video.php:0
+[18-Jan-2016 01:45:32 UTC] PHP Notice:  Undefined property: stdClass::$videoId in /home/zxq123/public_html/list/youtube_video.php on line 158
+[18-Jan-2016 01:45:32 UTC] PHP Stack trace:
+[18-Jan-2016 01:45:32 UTC] PHP   1. {main}() /home/zxq123/public_html/list/youtube_video.php:0
+[18-Jan-2016 01:46:07 UTC] PHP Notice:  Undefined property: stdClass::$videoId in /home/zxq123/public_html/list/youtube_video.php on line 158
+[18-Jan-2016 01:46:07 UTC] PHP Stack trace:
+[18-Jan-2016 01:46:07 UTC] PHP   1. {main}() /home/zxq123/public_html/list/youtube_video.php:0
+[18-Jan-2016 01:48:39 UTC] PHP Notice:  Undefined property: stdClass::$videoId in /home/zxq123/public_html/list/youtube_video.php on line 158
+[18-Jan-2016 01:48:39 UTC] PHP Stack trace:
+[18-Jan-2016 01:48:39 UTC] PHP   1. {main}() /home/zxq123/public_html/list/youtube_video.php:0
+[18-Jan-2016 01:55:57 UTC] PHP Notice:  Undefined property: stdClass::$videoId in /home/zxq123/public_html/list/youtube_video.php on line 158
+[18-Jan-2016 01:55:57 UTC] PHP Stack trace:
+[18-Jan-2016 01:55:57 UTC] PHP   1. {main}() /home/zxq123/public_html/list/youtube_video.php:0
